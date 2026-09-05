@@ -14,16 +14,16 @@ Features
 
 Getting Started
 - Prerequisites
-    Flutter SDK installed
-    Xcode (for iOS) and/or Android Studio (for Android)
+    - Flutter SDK installed
+    - Xcode (for iOS) and/or Android Studio (for Android)
 - Running the app
-    Clone the repository
-       git clone https://github.com/Nikki-py/flutter-Calculator.git
-       cd flutter-Calculator
+    - Clone the repository
+       - "git clone https://github.com/Nikki-py/flutter-Calculator.git"
+       - "cd flutter-Calculator"
 - Install dependencies
-     flutter pub get
+     - "flutter pub get"
 - Run the app
-     flutter run
+     - "flutter run"
 - Built With
-    Flutter — UI toolkit
-    Dart — programming language
+    - "Flutter — UI toolkit"
+    - "Dart — programming language"
